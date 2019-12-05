@@ -1,0 +1,8 @@
+num_bbox_examples,8
+num_bbox_corrects,8
+bbox_accuracy,100.00
+num_rec_examples,8
+num_rec_corrects,4
+rec_accuracy,50.00
+avg_pt,0.00
+score,160.00
